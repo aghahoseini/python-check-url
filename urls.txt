@@ -1,0 +1,11 @@
+https://rocket.com
+https://google.com
+https://stackoverflow.com/a
+https://stackoverflow.com/b
+https://asdf87as.com
+www.google.com
+google.com
+https://google.com
+https://www.google.com
+http://google.com
+http://www.google.com
